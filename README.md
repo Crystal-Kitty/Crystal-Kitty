@@ -6,8 +6,8 @@
 - 
 - also any projects may get names changed randomly idk im indecisive
 - 
-- // Discord Server[s] (i may add more for different things)
-- [Crystals Quest Enhancements](https://discord.gg/2SaQQ2JmuB) - For quest software like Bismuth-OSC
+- Current main project is an edit of ALVR to add FBT support with slimevr
+
 
 <!---
 Crystal-Kitty/Crystal-Kitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
